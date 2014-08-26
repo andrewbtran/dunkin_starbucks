@@ -1,0 +1,33 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".Rhistory",
+				".bowerrc",
+				"bitbucket.sh",
+				"bower.json",
+				"config.rb",
+				".gitignore",
+				"globegraphic.sublime-project",
+				"gulpfile.js",
+				"index.html",
+				"LICENSE.md",
+				".jshintignore",
+				".jshintrc",
+				"package.json",
+				"ggmapTemp.png",
+			],
+			"folder_exclude_patterns":
+			[
+				".tmp",
+				".sass-cache",
+				"node_modules",
+				"parts",
+			],
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}

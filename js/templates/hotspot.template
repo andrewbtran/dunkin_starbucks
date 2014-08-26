@@ -1,0 +1,3 @@
+<div class='next'>{{next}}</div>
+<div class='town'>{{town}}</div>
+<div class='text'>{{text}}</div>
